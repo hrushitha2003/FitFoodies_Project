@@ -1,0 +1,328 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-container{
+    background-image: url("file:///C:/Users/Admin/OneDrive/Attachments/Documents/projects%20updated/New%20folder/Fit%20Foodies/Group_Project/download.jpg");
+    height: 70vh;
+    text-align: center;
+    background-size: cover;
+    margin-top: 15px; 
+} 
+nav.navbar {
+    height: 50px;
+    font-family: 'serif';
+    margin-bottom: 15px;
+}
+nav.navbar-light {
+    background-color: #376491;
+}
+nav.navbar-light a.nav-link {
+    color: rgb(86, 148, 215);
+}
+nav.navbar-light a.nav-link:hover {
+    color: rgb(179, 152, 0);
+}
+.proimg {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+.navbar-nav .nav-item {
+    margin-right: 15px;
+}
+.navbar-nav .nav-link {
+    padding: 10px 15px;
+}
+.title-image{
+    font-family: 'sans-serif';
+    font-size: 25px;
+    color: black;
+    padding-top: 250px;
+    padding-right: 170px;
+}
+.after-image{
+    background-color:  #77aadd;
+    border-radius: 30px;
+    height: 280px;
+    margin-top: 15px;
+}
+.title-about{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    text-decoration-line: underline;
+}
+.para-about{
+    padding-left: 10px;
+    padding-right: 15px;
+    color: white;
+    font-family: 'serif';
+    font-size: 20px;
+    text-align: center;
+    padding-top: 50px;
+    font-style: italic;
+}
+.calculator-container {
+    background-color:rgb(255, 240, 219);
+    margin-top: 20px;
+    height: 550px;
+    padding-top: 30px;
+}
+
+.calculator-container h1 {
+    font-family: 'Playfair Display', serif;
+    color: #376491;
+    text-align: center;
+}
+
+.calculator-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-label {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    padding-top: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+
+.form-select,
+.form-control {
+    margin-bottom: 10px;
+}
+
+.calculate {
+    background-color: #376491;
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.centering-btn{
+    text-align: center;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #376491;
+}
+
+.result-statement {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #555;
+}
+.bmi-title{
+    padding-top: 0px;
+    text-decoration-line: underline;
+}
+.image-marquee {
+    display: flex;
+    gap: 30px; 
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.image-marquee img {
+    border-radius: 20px; 
+}
+marquee {
+    overflow: hidden;
+    white-space: nowrap;
+}
+.signup-btn1{
+    border-radius: 20px;
+    background-color: rgb(126, 218, 218);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: black;
+    border-width: 0px;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    margin-left: 680px;
+}
+.login-btn1{
+    border-radius: 20px;
+    background-color: rgb(126, 218, 218);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: black;
+    border-width: 0px;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    margin-left: 20px;
+}
+.first-car{
+    width: 1550px;
+    height: 680px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-size: cover;
+}
+.card-img-1{
+    width: 120px;
+    height: 120px;
+}
+.total-cards{
+    background-color:rgb(214, 249, 161);
+}
+.title-newrecipe{
+    font-size: 35px;
+    font-family: 'serif';
+    color: black;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.card-t1{
+    padding: 70px;
+    margin: 10px;
+    text-align: center;
+}
+
+.card-t2{
+    padding: 70px;
+    margin: 10px;
+    text-align: center;
+}
+.card-t3{
+    padding: 70px;
+    margin: 10px;
+    text-align: center;
+}
+.card-t4{
+    padding: 70px;
+    margin: 10px;
+    text-align: center;
+}
+.card-img-1{
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+.card1-h2{
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 12px;
+}
+.card2-h2{
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 12px;
+}
+.card3-h2{
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 12px;
+}
+.card4-h2{
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 12px;
+}
+.p-btnn{
+    background-color:rgb(29, 86, 192);
+    width: 100px;
+    height: 35px;
+    color: rgb(247, 243, 243);
+    border-radius: 20px;
+    text-align: center;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 3px;
+    padding-bottom: 2px;
+    margin-left: 100px;
+}
+.contact-section {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to bottom, #000000, #4b5563);
+    padding: 1rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .contact-content {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+
+  .section-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    border-bottom: 4px solid #4b5563;
+    display: inline-block;
+    padding-bottom: 8px;
+  }
+
+  .paragraph {
+    padding-top: 2rem;
+  }
+
+  .form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .contact-form {
+    width: 100%;
+    max-width: 500px;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .form-input {
+    margin-bottom: 1rem;
+    padding: 0.75rem;
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 0.25rem;
+    color: #fff;
+    outline: none;
+  }
+
+  .form-input:focus {
+    border-color: #00b4d8;
+  }
+
+  .form-textarea {
+    margin-bottom: 1rem;
+    padding: 0.75rem;
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 0.25rem;
+    color: #fff;
+    outline: none;
+    resize: none;
+  }
+
+  .form-textarea:focus {
+    border-color: #00b4d8;
+  }
+
+  .form-button {
+    background: linear-gradient(to bottom, #48bb78, #38a169);
+    color: #fff;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .form-button:hover {
+    background: linear-gradient(to bottom, #64d987, #4bbd78);
+  }

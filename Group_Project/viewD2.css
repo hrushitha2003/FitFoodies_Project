@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/vegetable-ratatouille-frying-pan-wooden-table_2829-19906.jpg?size=626&ext=jpg&ga=GA1.1.1520743576.1700832091&semt=ais");
+    background-size: cover;
+    height: 100vh;
+}
+.card1{
+    background-color: white;
+    height: 180px;
+    width: 100vw;
+    padding: 15px;
+    border-top-right-radius: 20px;
+    border-top-left-radius:20px;
+}
+.heading{
+    color: #5752ab;
+    font-size: 28px;
+    font-family: 'Bree Serif';
+    font-weight: bold;
+}
+.para{
+    font-family: 'Roboto';
+    font-size: 17px;
+    color: #323f4b;
+}
+.para1{
+    font-family: 'Roboto';
+    font-size: 17px;
+    color: #323f4b;
+}
+.button1{
+    background-color: #ffffff;
+    border-color: #d7dfe9;
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: 200;
+    width: 118px;
+    height: 40px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    margin-right: 5px;
+    color: black;
+}
+.card2{
+    text-align: center;
+}
+.button2{
+    color: white;
+    font-size: 12px;
+    font-family: 'Roboto';
+    border-radius: 8px;
+    width: 118px;
+    height: 40px;
+    border-style: solid;
+    background-color: #5752ab;
+    border-width: 1px;
+}
